@@ -1,6 +1,6 @@
 # rezepte-imadteryaki
 
-#### Syrische Fleischpastete
+## Syrische Fleischpastete
 | Zutat          | Mange    | 
 |----------------|----------|
 | Öl             | 4 EL     |
@@ -25,7 +25,7 @@ Tomaten mit kochend heißem Wasser übergießen. Die Haut abziehen und die Tomat
 ![Syrische Fleischpastete](./syrische-fleischpastete.jpg)
 
 
-#### Hühnerfrikassee
+## Hühnerfrikassee
 | Zutat           | Mange     | 
 |-----------------|-----------|
 | Barthänchen     | 1         |
