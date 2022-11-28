@@ -20,7 +20,7 @@
 Tomaten mit kochend heißem Wasser übergießen. Die Haut abziehen und die Tomaten würfeln, dabei die Stielansätze wegschneiden. Tomatenwürfel sowie die gehackte Petersilie, den Kümmel, die gehackten Minzeblätter bzw. den gehackten Dill zum Fleisch geben. Danach noch alles ca. 10 Minuten schoren lassen.
 2. Feuerfeste Form mit Margarine einfetten und die Fleischmasse einfüllen. Die Eier verquirlen und darüber gießen. Form auf die mittlere Schiene in den vorgeheizten Ofen (Ober-/Unterhitze: 175°C, Gas: Stufe 2) stellen und 20 Minuten garen lassen.
 
- Dazu passt Tomatensauce, Kopfsalat mit viel Kräutern und Reis als Beilage. Als Getränk passt Bier.
+ _**Dazu passt Tomatensauce, Kopfsalat mit viel Kräutern und Reis als Beilage. Als Getränk passt Bier.**_
 
 ![Syrische Fleischpastete](./syrische-fleischpastete.jpg)
 
@@ -48,6 +48,6 @@ Tomaten mit kochend heißem Wasser übergießen. Die Haut abziehen und die Tomat
 2. Wenn das Hähnchen gar gekocht ist, aus dem Topf nehmen und abkühlen lassen. Die entstandene Brühe durch ein Sieb gießen. Das Hähnchenfleisch von den Knochen lösen.
 3. Margarine in den Topf geben und erhitzen, das Mehl nun unter schnellem Rühren hinzufügen. Nun die Geflügelbrühe in die Mehlschwitze geben. Erst ein bisschen - um die Brühe mit der Schwitze zu verbinden und um Klümpchen zu vermeiden - und dann die restliche Brühe hineingießen (die Brühe wird darauf etwas dickflüssig). Ca. 10 Minuten unter häufigem Rühren köcheln lassen und mit Salz, Zitronensaft und Pfeffer abschmecken. Zwei Eigelb mit der Sahne verrühren und zugeben. Nun das Hähnchenfleisch mit den Champignons, den Erbsen und Möhren sowie dem Spargel hinzufügen und alles nur noch heiß werden lassen. Heiß servieren
 
-Tipp: Anstatt eines kompletten Hähnchens kann man auch Hühnerschenkel für das Frikassee nehmen.
+_**Tipp: Anstatt eines kompletten Hähnchens kann man auch Hühnerschenkel für das Frikassee nehmen.**_
 
 ![Hühnerfrikassee](huehnerfrikassee.jpg)
