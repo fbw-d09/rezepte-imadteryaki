@@ -24,6 +24,7 @@ Tomaten mit kochend heißem Wasser übergießen. Die Haut abziehen und die Tomat
 
 ![Syrische Fleischpastete](./syrische-fleischpastete.jpg)
 
+--- 
 
 ## Hühnerfrikassee
 | Zutat           | Mange     | 
